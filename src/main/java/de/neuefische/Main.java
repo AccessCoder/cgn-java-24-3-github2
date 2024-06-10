@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("I´m a BUG!");
         System.out.println("I´m a FeatureBranch!!");
+        System.out.println("I´m a second Feature!!");
 
     }
 }
